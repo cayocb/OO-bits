@@ -1,4 +1,4 @@
-```c
+
 #include <stdio.h>
 
 int main( void )
@@ -16,7 +16,8 @@ int main( void )
           "Tamanho do endereço linear: (in bits): %u\n",
           a & 0xff, (a >> 8) & 0xff );
 }
-```
-Ordenação e organização de bits
+
+
+# Ordenação e organização de bits
  
  # Creditos (H4) e outras fontes.
